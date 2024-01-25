@@ -20,7 +20,7 @@ Private profile mode will be enabled if any of the two profiles has this setting
 All other settings will remain unchanged in profile A and editable on Edit Your Profile page anytime.
 
 ### Student view of assignment details
-This is the student view of the Microsoft Learn LTI application. A student can see all assignment details assocaited to the course/class/unit which the educator has configured. The page includes descriptions and along with associated links, resources, and deadlines whihc have been set by the educator. 
+This is the student view of the Microsoft Learn LTI application. A student can see all assignment details associated to the course/class/unit which the educator has configured. The page includes descriptions and along with associated links, resources, and deadlines whihc have been set by the educator. 
 
 The Microsoft Learn Modules which are included can be accessed via the tutorials section. Students simply select the appropiate Learn content which has been set by the educator and are taken to Microsoft Learn. The Students should be signed into their academic emails address to allow them complete the resources.
 
